@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+secrets.toml
+.env
+.env.*
+
+# Local/private data
+Resume.zip
+resume_data_for_ranking.csv
+*.pdf
+*.docx
+
+# Model/cache artifacts
+.cache/
+huggingface/

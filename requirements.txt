@@ -1,0 +1,7 @@
+streamlit
+streamlit-mic-recorder
+pandas
+numpy
+pypdf
+sentence-transformers
+faiss-cpu
